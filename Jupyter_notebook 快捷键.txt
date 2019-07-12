@@ -1,0 +1,24 @@
+Jupyter notebook 快捷键
+
+Esc: 进入command模式
+Enter: 进入edit模式
+    
+D + D: 连按两次d键， 删除cell
+
+Esc + F: 查找替换
+
+Ctrl + Shift + -: 当前光标处拆分cell
+    
+A：当前cell上方插入新的cell
+B：当前cell下方插入新cell
+
+M: 将当前cell转换成markdown模式
+Y: 将当前cell转换成code模式
+
+Shift + M: 合并cell
+
+Ctrl + Enter: 运行cell
+Shift + Enter: 运行下一个cell    
+    
+0 + 0: 重启kernel
+I + I: 中断kernel

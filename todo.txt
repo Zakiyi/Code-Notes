@@ -1,0 +1,11 @@
+Fast-OCNet: 更快更好的OCNet: https://zhuanlan.zhihu.com/p/43902175
+
+        
+几篇较新的计算机视觉Self-Attention: https://zhuanlan.zhihu.com/p/44031466
+        
+
+
+A bunch of tips and tricks for training deep neural networks: https://towardsdatascience.com/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks-3ca24c31ddc8
+        
+图像分割的U-Net系列方法 - taigw的文章 - 知乎
+https://zhuanlan.zhihu.com/p/57530767
